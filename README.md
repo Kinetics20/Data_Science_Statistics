@@ -12,6 +12,42 @@
 This repository contains a collection of statistical exercises designed for Data Science learning and practice.  
 It demonstrates core statistical concepts through interactive Jupyter Notebooks, using Python libraries for data manipulation, visualization, and statistical modeling.
 
+# 📚 Examples
+
+### 📊 Central Limit Theorem - Sampling Animation (CTL.ipynb)
+
+This example demonstrates the **Central Limit Theorem** through a simple animated visualization.  
+It shows how the distribution of sample means tends toward a normal distribution as more samples are drawn from an original uniform distribution.
+
+Key features:
+- **Animated histogram** of sample means evolving over time
+- **Saved as an animated GIF** for easy viewing
+- **Educational visualization** of the Central Limit Theorem process
+
+Generated output preview:  
+[![CLT Sampling Animation](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/central_limit_theorem_3.gif)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/central_limit_theorem_3.gif)
+
+---
+
+### 📈 Central Limit Theorem - Interactive Animation (CTL_for_web_.ipynb)
+
+This example generates an **interactive animated visualization** illustrating the **Central Limit Theorem**.  
+We repeatedly draw samples from a uniform distribution, calculate their means, and show how the distribution of these means becomes approximately normal as more samples are collected.
+
+Key features:
+- **Three synchronized plots**:
+  - Distribution of sample means (top left)
+  - Current sample distribution (top right)
+  - Original population distribution (bottom)
+- **Animated frames** updating dynamically with each new sample
+- **Interactive controls** (start button) for running the animation
+- **Saved as an HTML file** for easy sharing and embedding in web projects
+
+Generated output preview:  
+[![Interactive CLT Animation](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/central_limit_theorem_interactive_for_web.png)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/central_limit_theorem_interactive_for_web.html)
+
+
+
 ## 🛠️ Libraries Used
 
 - `numpy`
