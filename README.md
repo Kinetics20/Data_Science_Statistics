@@ -47,8 +47,8 @@ stats/
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:YourUsername/statistics-exercises.git
-   cd statistics-exercises
+   git clone git@github.com:Kinetics20/Data_Science_Statistics.git
+   cd Data_Science_Statistics
    ```
 
 2. Install dependencies using [uv](https://github.com/astral-sh/uv):
