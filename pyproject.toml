@@ -12,6 +12,7 @@ dependencies = [
     "ipython>=9.2.0",
     "jupyterlab>=4.4.1",
     "matplotlib>=3.10.1",
+    "matplotlib-venn>=1.1.2",
     "numpy>=2.2.5",
     "pandas>=2.2.3",
     "plotly>=6.0.1",
