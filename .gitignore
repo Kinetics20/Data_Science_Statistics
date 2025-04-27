@@ -12,3 +12,4 @@ wheels/
 assets/.ipynb_checkpoints
 html/.ipynb_checkpoints
 /.ipynb_checkpoints/
+.idea
