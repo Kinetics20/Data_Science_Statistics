@@ -1,5 +1,4 @@
 
-
 # 📈 Data Science Statistics
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
@@ -46,7 +45,25 @@ Key features:
 Generated output preview:  
 [![Interactive CLT Animation](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/central_limit_theorem_interactive_for_web.png)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/central_limit_theorem_interactive_for_web.html)
 
+---
 
+### 🎻 Bimodal Distribution Visualization (workshop/bimodal_dist.ipynb)
+
+This exercise focuses on visualizing a **bimodal distribution** using multiple types of statistical plots:
+- **Boxplot**: Showing distribution spread with the mean highlighted.
+- **Violin plot**: Displaying the probability density function.
+- **Histogram**: Representing frequency of occurrences.
+
+Key features:
+- **Combined mosaic layout** for side-by-side comparison
+- **Customized styles** like dashed mean lines and dotted median bars
+- **Clear axis labels** for better interpretation
+- **Useful for exploratory data analysis (EDA)**
+
+Generated output preview:  
+[![Bimodal Distribution Visualization](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/bimodal_dist.png)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/bimodal_dist.png)
+
+---
 
 ## 🛠️ Libraries Used
 
@@ -65,18 +82,20 @@ Generated output preview:
 ## 📂 Project Structure
 
 ```
-stats/
-├── assets/                   ← Images and GIFs
-├── datasets/                  ← CSV datasets
-├── html/                      ← HTML documents
-├── CTL.ipynb                  ← Jupyter Notebook
-├── CTL_for_web_.ipynb          ← Jupyter Notebook
-├── descriptive_visualisation.ipynb ← Jupyter Notebook
-├── intro.ipynb                ← Jupyter Notebook
-├── pebble_world.ipynb         ← Jupyter Notebook
-├── pyproject.toml             ← Project dependencies
-├── README.md                  ← Project documentation
-└── uv.lock                    ← Lock file for uv
+Data_Science_Statistics/
+├── assets/                        ← Images and GIFs
+├── datasets/                      ← CSV datasets
+├── html/                          ← HTML documents
+├── workshop/                      ← Workshop practice notebooks
+│   └── bimodal_dist.ipynb          ← Bimodal distribution visualization
+├── CTL.ipynb                      ← Central Limit Theorem sampling animation
+├── CTL_for_web_.ipynb              ← Central Limit Theorem interactive animation
+├── descriptive_visualisation.ipynb← Descriptive statistics visualizations
+├── intro.ipynb                    ← Introduction notebook
+├── pebble_world.ipynb              ← Toy example for sampling exercises
+├── pyproject.toml                  ← Project dependencies
+├── README.md                       ← Project documentation
+└── uv.lock                         ← Lock file for uv
 ```
 
 ## 🚀 How to Run
@@ -116,4 +135,3 @@ Contributions and suggestions are welcome!
 
 👤 Author: Piotr Lipiński  
 🗓 Date: May 2025
-
