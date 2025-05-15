@@ -14,4 +14,5 @@ html/.ipynb_checkpoints
 /.ipynb_checkpoints/
 .idea
 master_card/transactions.json
+master_card/master_cleared.csv
 
