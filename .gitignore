@@ -10,6 +10,7 @@ wheels/
 .venv
 
 assets/.ipynb_checkpoints
+assets/central_limit_theorem_interactive_for_web.html
 html/.ipynb_checkpoints
 /.ipynb_checkpoints/
 .idea
