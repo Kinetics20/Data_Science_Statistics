@@ -43,7 +43,7 @@ Key features:
 - **Saved as an HTML file** for easy sharing and embedding in web projects
 
 Generated output preview:  
-[![Interactive CLT Animation](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/central_limit_theorem_interactive_for_web.png)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/central_limit_theorem_interactive_for_web.html)
+[![Interactive CLT Animation](https://github.com/Kinetics20/Data_Science_Statistics/raw/main/assets/central_limit_theorem_interactive_for_web_2.gif)](https://github.com/Kinetics20/Data_Science_Statistics/blob/main/assets/central_limit_theorem_interactive_for_web.html)
 
 ---
 
